@@ -1,0 +1,5 @@
+README
+
+This python module searches a text file for a string that represents a name. It then changes the associated grade of that string with the argument of standard input.
+
+NOTE: There is a bug where it prints the grade twice.
